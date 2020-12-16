@@ -1,0 +1,30 @@
+body{
+    background-image: url('../img/emilia-home.jpg');
+    background-size: 75% ;
+    background-repeat: no-repeat;
+    background-position:right;
+    
+    font-family: 'Open Sans';
+}
+ul{
+ line-height: 30px;
+}
+ul li {
+    list-style: none;
+}
+ul li a {
+text-decoration: none;
+color: black;
+}
+h1{
+    font-size: 40px;
+    margin-top: 80px;
+    padding-left: 35px;
+    font-family: 'Work Sans';
+}
+h2{
+font-family: 'Raleway';
+font-size: 60px;
+margin-top: 130px;
+background-color: rgba(255, 255, 255, 0.3);
+}
